@@ -15,4 +15,4 @@ Monthly stock data were obtained from Wharton Research Data Services.
 This project was the collaborative effort of Christi Mariam, Jiayu Li, Xuhua Luo, Young Ji Tuen, Richard Zhou, and Yang Zhou. 
 
 # Acknowledgements
-The authors would like to thank Adlai Fisher and Percy Chen for their dedicated support throughout the MBAN BAFI 508 Data Driven Investments course. 
+The authors would like to thank Adlai Fisher and Percy Chen for their dedicated support throughout the MBAN BAFI 508 Data Driven Investments course. The code for this project was modified from the work of the BAFI 508 teaching team. 
